@@ -1,0 +1,2 @@
+curr_state	curr_action	next_reward	next_state	old_value	new_value
+1031	0	0	1159	0.16677181699666577	0.16677181699666577
